@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "extract-colors": "^4.1.1",
+    "get-image-colors": "^4.0.1",
     "get-pixels": "^3.3.3",
     "pdf-lib": "^1.17.1",
     "pdf-poppler": "^0.2.1"
